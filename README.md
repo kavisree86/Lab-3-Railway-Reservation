@@ -1,4 +1,6 @@
 # Lab-3-Railway-Reservation
+# Name:Kavisree s
+# Reg No: 212222047001
 
 ### AIM:
 To develop the Railway Reservation System using Star UML tool.
@@ -18,17 +20,16 @@ phones.
 of the online bus ticket system is to provide another way for transnational customers to buy
 their tickets.
 ### UML DIAGRAMS:
-use case diagram
 ![image](https://github.com/kavisree86/Lab-3-Railway-Reservation/assets/145759687/23d8b821-f882-4c11-bbbf-d962ee45ff02)
-Activity diagram
+### Activity diagram
 ![image](https://github.com/kavisree86/Lab-3-Railway-Reservation/assets/145759687/14030965-c0c9-4daa-9b7c-b227864978b0)
-Package diagram
+### Package diagram
 ![image](https://github.com/kavisree86/Lab-3-Railway-Reservation/assets/145759687/3cac6ab4-351d-405e-9382-aab62d04d7f9)
-Sequence diagram
+### Sequence diagram
 ![image](https://github.com/kavisree86/Lab-3-Railway-Reservation/assets/145759687/0140accb-d49c-4c73-9bc5-bbf4bc755b52)
-communication diagram
+### communication diagram
 ![image](https://github.com/kavisree86/Lab-3-Railway-Reservation/assets/145759687/695c9f81-742d-4c3b-83aa-92106b93bfdc)
-class diagram
+### class diagram
 ![image](https://github.com/kavisree86/Lab-3-Railway-Reservation/assets/145759687/6f323c5c-8b98-47ce-b27c-589885e8e27e)
 
 
